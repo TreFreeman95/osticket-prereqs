@@ -30,8 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - VC Redist
 - MySQL
 - osTicket-v1.15.8
-- Link to the fiile downloads:
- <br>
+- Link to the fiile downloads:<br>
   https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD
 
 <h2>Installation Steps</h2>
