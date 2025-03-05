@@ -34,7 +34,7 @@ d
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/a/ckWLqbZ" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://imgur.com/a/ckWLqbZ](https://i.imgur.com/Km06e7o.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   To get started the first thing you want to do is create a virtual machine in Microsoft Azure
