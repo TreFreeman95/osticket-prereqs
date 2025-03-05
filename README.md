@@ -8,9 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
-
+d
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -36,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/0aYoGDS" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   To get started the first thing you want to do is create a virtual machine in Microsoft Azure
