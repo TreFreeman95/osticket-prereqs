@@ -6,9 +6,6 @@
 <h1>Implementing a Help Desk Ticketing System (osTicket) using Azure Virtual Machines</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-d
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -33,12 +30,12 @@ d
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://imgur.com/a/ckWLqbZ](https://i.imgur.com/Km06e7o.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-  To get started the first thing you want to do is create a virtual machine in Microsoft Azure
-</p>
+<h3>1.The first step we have to take is create a virtual machine using Microsoft Azure</h3>
+<p>Create the Azure vm with the following requirements below</p>
+- Windows 10, 4 vCPUs
+- Name: osticket-vm
+- Username: labuser
+- Password: osTicketPassword1!
 <br />
 
 <p>
