@@ -43,14 +43,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/MrTgYFf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<p><b>2.) Once you have created your virtual machine you will want to conncet to it by using the public ip address the vm is setup with. You will connect using the remote desktop connection app.</b></p>
+<p><b>2.) Once you have created your virtual machine you will want to connect to it by using the public ip address the vm is setup with. You will connect using the remote desktop connection app.</b></p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/fjj0PQW.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+<p><b>3.)Download the osTicket-installation-files.zip and unzip it on to your remote desktop.</b></p>
+<p>We will use the files in this folder to install osTicket and some of the dependencies</p>
+<p>The folder should be called "osTicket-Installation-Files</p>
 <br />
 
