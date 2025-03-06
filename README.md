@@ -52,5 +52,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p><b>3.)Download the osTicket-installation-files.zip and unzip it on to your remote desktop.</b></p>
 <p>We will use the files in this folder to install osTicket and some of the dependencies</p>
 <p>The folder should be called "osTicket-Installation-Files</p>
+
 <br />
 
