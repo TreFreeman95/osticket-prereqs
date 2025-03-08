@@ -132,6 +132,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>We've launched osTicket and now need to enable required extensions for osTicket.</p>
 <p>We will need to enable these extensions in IIS</p>
 <img src="https://i.imgur.com/7KZsybb.png" height="50%" width="50%"/>
+</br>
 
 <p>To enable the extensions: -Go back to IIS, sites -> Default -> osTicket -Double click PHP manager -Click "Enable or disable an extension"</p>
 <div style="display: flex; flex-direction: row; flex-wrap:wrap;">
@@ -142,11 +143,23 @@ This tutorial outlines the prerequisites and installation of the open-source hel
         <li>php_imap.dll</li>
         <li>php_intl.dll</li>
         <li>php_opcache.dll</li>
-        
       </ol>
-    <img src="https://i.imgur.com/UKbsV2z.png" width="60%" />
+      <img src="https://i.imgur.com/UKbsV2z.png" width="70%" />
 </div>
+</br>
 
+<p>Refresh the osTicket site in your browser, observe the changes</p>
+<img src="https://i.imgur.com/GgWeGFe.jpeg" width="70%" />
 
+<p>Next we will have to navigate to C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php and rename the file to ost-config.php in the same directory (C:\inetpub\wwwroot\osTicket\include).</p>
+<img src="https://i.imgur.com/VhPOY0e.png" width="70%" />
 
+<p>Assign Permissions: ost-config.php</p>
+<p>Now that we have renamed the files, right click on the file and go to properties. From there click security, click on advance, and disable the inheritance. We will select Remove all inherited permissions from this object.</p>
+
+  <img src="https://i.imgur.com/zsQjlr8.png"/>
+
+  <p>New Permissions -> Everyone -> All</p>
+  <img src="https://i.imgur.com/KAfFfR5.png"/>
+  
 
