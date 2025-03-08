@@ -76,7 +76,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p><b>6.) Install the Rewite Module</b></p>
 <p>From the osTicket-Installation-Files folder install the Rewite Module (rewrite_amd64_en-US.msi)</p>
-<img src="https://i.imgur.com/qqN3srj.png" height="50%" width="50" alt="Rewite Module"/>
+<img src="https://i.imgur.com/qqN3srj.png" height="50%" width="50%" alt="Rewite Module"/>
 
 <p><b>7.)Create the PHP direcory</b></p>
 <p>Navigate to the system c:drive and create a directory named "PHP</p>
@@ -114,7 +114,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>Reload IIS (Open IIS, Stop and Start the server)</p>
 <img src="https://i.imgur.com/LDNGiIt.png" height="30%" width="30%" />
 
-<p><b>Now we get to install osTicket</b></p>
+<h3><b>11.)Now we get to install osTicket</b></h3>
 
 - From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” 
 - Copy the “upload” folder into “c:\inetpub\wwwroot”
@@ -128,3 +128,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>Navigate to osTicket through IIS</p>
 <p>Go to sites -> Default -> osTicket. On the right, click “Browse *:80”</p>
 <img src="https://i.imgur.com/OtFm4gV.png" height="50%" width="50%"/>
+
+<p>We've launched osTicket and now need to enable required extensions for osTicket.</p>
+<p>We will need to enable these extensions in IIS</p>
+<img src="https://i.imgur.com/7KZsybb.png" height="50%" width="50%"/>
+
+<p>To enable the extensions: -Go back to IIS, sites -> Default -> osTicket -Double click PHP manager -Click "Enable or disable an extension"</p>
+<img src="" height="50%" width="50%"/>
+<div style="display: flex; flex-direction: row;">>
+    <img src=https://i.imgur.com/PAKfiT3.png" width="250" />
+    <img src="images/git-hooks.webp" width="250" />
+    <img src="images/python-tab.webp" width="250" />
+</div>
+
+
+
+
