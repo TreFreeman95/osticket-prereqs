@@ -127,18 +127,24 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>Navigate to osTicket through IIS</p>
 <p>Go to sites -> Default -> osTicket. On the right, click “Browse *:80”</p>
-<img src="https://i.imgur.com/OtFm4gV.png" height="50%" width="50%"/>
+<img src="https://i.imgur.com/OtFm4gV.png" height="60%" width="80%"/>
 
 <p>We've launched osTicket and now need to enable required extensions for osTicket.</p>
 <p>We will need to enable these extensions in IIS</p>
 <img src="https://i.imgur.com/7KZsybb.png" height="50%" width="50%"/>
 
 <p>To enable the extensions: -Go back to IIS, sites -> Default -> osTicket -Double click PHP manager -Click "Enable or disable an extension"</p>
-<img src="" height="50%" width="50%"/>
-<div style="display: flex; flex-direction: row;">>
-    <img src=https://i.imgur.com/PAKfiT3.png" width="250" />
-    <img src="images/git-hooks.webp" width="250" />
-    <img src="images/python-tab.webp" width="250" />
+<div style="display: flex; flex-direction: row; flex-wrap:wrap;">
+    <img src="https://i.imgur.com/PAKfiT3.png" width="60%" />
+    <img src="https://i.imgur.com/1yr0VCh.png" width="70%" height="50%"/>
+    <p>We will want to enable three extensions from here.</p>
+      <ol>
+        <li>php_imap.dll</li>
+        <li>php_intl.dll</li>
+        <li>php_opcache.dll</li>
+        
+      </ol>
+    <img src="https://i.imgur.com/UKbsV2z.png" width="60%" />
 </div>
 
 
