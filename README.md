@@ -40,35 +40,32 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/MrTgYFf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Tj4r5V6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p><b>2.) Once you have created your virtual machine you will want to connect to it by using the public ip address the vm is setup with. You will connect using the remote desktop connection app.</b></p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/fjj0PQW.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iTWyTzw.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p><b>3.)Download the osTicket-installation-files.zip and unzip it on to your remote desktop.</b></p>
 <p>We will use the files in this folder to install osTicket and some of the dependencies</p>
 <p>The folder should be called "osTicket-Installation-Files</p>
 
-<img src="https://i.imgur.com/ITlDslB.jpeg" height="50%" width="50%" alt="folder download"/>
+<img src="https://i.imgur.com/V8mUNPQ.jpeg" height="50%" width="50%" alt="folder download"/>
 <br />
 
 <p><b>4.)Next we will need to enable IIS and CGI</b></p>
 <p>Navigate to Control Panel --> Programs --> Programs and Features --> Turn Windows features on or off</p>
-<p>
-  <img src="https://i.imgur.com/ynUFdKW.png" height="30%" width="50%" alt="Control Panel "/>
-  <img src="https://i.imgur.com/KZd6xRU.png" height="30%" width="50%" alt="Control Panel "/>
-</p>
-
+  <img src="https://i.imgur.com/w4UPobO.png" height="60%" width="50%" alt="Control Panel "/>
+  <img src="https://i.imgur.com/8HmT6G8.png" height="50%" width="50%" alt='Control Panel'/>
 <p><b>Make sure all the following boxes are checked</b></p>
-<p><img src="https://i.imgur.com/uxrt3Zc.png" height="30%" width="30%" alt="Control Panel "/></p>
+<p>  <img src="https://i.imgur.com/EXbeltI.png" height="50%" width="30%" alt="Control Panel "/></p>
 
 <p><b>Check if this feature is working by going to your browser and typing in the loopback address 127.0.0.1</b></p>
-<p><img src="https://i.imgur.com/sv3tsIU.png" height="60%" width="60%" alt="Control Panel "/></p>
+<p><img src="https://i.imgur.com/Wi7z0Fk.png" height="60%" width="60%" alt="Control Panel "/></p>
 
 <p><b>5.)Install PHP manager for IIS</b></p>
 <p>From the osTicket-Installation-Files folder install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)</p>
