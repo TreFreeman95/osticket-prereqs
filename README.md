@@ -69,22 +69,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p><b>5.)Install PHP manager for IIS</b></p>
 <p>From the osTicket-Installation-Files folder install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)</p>
-<img src= "https://i.imgur.com/iSRGjdB.jpeg" height= "50%" width="60%" alt= PHP manager/>
+<img src= "https://i.imgur.com/IsTbhCm.png" height= "50%" width="60%" alt= PHP manager/>
 
 <p><b>6.) Install the Rewite Module</b></p>
 <p>From the osTicket-Installation-Files folder install the Rewite Module (rewrite_amd64_en-US.msi)</p>
-<img src="https://i.imgur.com/qqN3srj.png" height="50%" width="50%" alt="Rewite Module"/>
+<img src="https://i.imgur.com/DtnRxcf.png" height="50%" width="50%" alt="Rewite Module"/>
 
 <p><b>7.)Create the PHP direcory</b></p>
 <p>Navigate to the system c:drive and create a directory named "PHP</p>
 
 <p><b>Unzip PHP files into the folder</b></p>
 <p>From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder</p>
-<img src="https://i.imgur.com/zHXVS4o.jpeg" height="50%" width=" 50%"/>
+<img src="https://i.imgur.com/RCzj7nY.jpeg" height="50%" width=" 50%"/>
 
 <p><b>8.) Install VC redist Dependency</b></p>
 <p>From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.</p>
-<img src="https://i.imgur.com/hCEMJ6n.jpeg" height="50%" width="50%"/>
+<img src="https://i.imgur.com/F3Ok7El.jpeg" height="50%" width="50%"/>
 
 <p><b>9.)Install MySQL</b></p>
 <p>From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi)</p>
@@ -103,10 +103,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p><b>10.)Next we will have to register PHP within IIS</b></p>
 
 <p>Open IIS as an administrator and click register new PHP version</p>
-<img src="https://i.imgur.com/GODTj2E.png" height="50%" width="50%"/>
+<img src="https://i.imgur.com/F3Ok7El.jpeg" height="50%" width="50%"/>
 
 <p>When clicked register under PHP folder created in the C:drive (C:\PHP\php-cgi.exe)</p>
-<img src="https://i.imgur.com/lc4qP0s.png" height="50%" width="50%"/>
+<img src="https://i.imgur.com/cbIoWdn.png" height="50%" width="50%"/>
+<img src="https://i.imgur.com/XmPFZOK.jpeg" height="50%" width="50%"/>
+
 
 <p>Reload IIS (Open IIS, Stop and Start the server)</p>
 <img src="https://i.imgur.com/LDNGiIt.png" height="30%" width="30%" />
@@ -124,7 +126,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>Navigate to osTicket through IIS</p>
 <p>Go to sites -> Default -> osTicket. On the right, click “Browse *:80”</p>
-<img src="https://i.imgur.com/OtFm4gV.png" height="60%" width="80%"/>
+<img src="https://i.imgur.com/NubMK2w.jpeg" height="60%" width="40%"/>
+<img src="https://i.imgur.com/9kHCPCG.jpeg" height="60%" width="40%"/>
+
 
 <p>We've launched osTicket and now need to enable required extensions for osTicket.</p>
 <p>We will need to enable these extensions in IIS</p>
