@@ -162,5 +162,26 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   <p>New Permissions -> Everyone -> All</p>
   <img src="https://i.imgur.com/KAfFfR5.png"/>
-  
 
+<h2>Intial osTicket Install</h2>
+<h3>Continue Setting up osTicket in the browser</h3>
+<ol>
+  <li>Name Helpdesk</li>
+  <li>Default Email(This email will receive emails from customers)</li>
+</ol>
+
+<p>For Admin User I made sure the email was different from the default system email</p>
+  <img src=""/>
+
+
+<h3>Install HeidiSQL</h3>
+<p>From the “osTicket-Installation-Files” folder, install HeidiSQL.</p>
+
+<ol>
+  <li>Open Heidi SQL</li>
+  <li>Create a new session</li>
+  <li>Make sure to set the  to User:root Password:root</li>
+  <li>Connect to the session</li>
+</ol>
+
+<img src=""/>
