@@ -185,3 +185,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </ol>
 
 <img src=""/>
+
+<p>When done create a new database by right clicking unnamed and name it osTicket</p>
+
+
