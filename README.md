@@ -171,11 +171,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </ol>
 
 <p>For Admin User I made sure the email was different from the default system email</p>
-  <img src=""/>
+  <img src="https://i.imgur.com/ApTqHn4.png"/>
 
 
 <h3>Install HeidiSQL</h3>
 <p>From the “osTicket-Installation-Files” folder, install HeidiSQL.</p>
+<img src="https://i.imgur.com/Lct6xno.png"/>
+
 
 <ol>
   <li>Open Heidi SQL</li>
@@ -184,8 +186,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   <li>Connect to the session</li>
 </ol>
 
-<img src=""/>
+<img src="https://i.imgur.com/UiqZzWQ.png"/>
 
 <p>When done create a new database by right clicking unnamed and name it osTicket</p>
 
-
+<img src="https://i.imgur.com/UiqZzWQ.png"/>
