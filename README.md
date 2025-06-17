@@ -132,7 +132,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>We've launched osTicket and now need to enable required extensions for osTicket.</p>
 <p>We will need to enable these extensions in IIS</p>
-<img src="https://i.imgur.com/7KZsybb.png" height="50%" width="50%"/>
+<img src="https://i.imgur.com/rGe7XJC.png" height="50%" width="50%"/>
 </br>
 
 <p>To enable the extensions: -Go back to IIS, sites -> Default -> osTicket -Double click PHP manager -Click "Enable or disable an extension"</p>
