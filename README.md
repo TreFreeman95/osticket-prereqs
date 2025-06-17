@@ -206,5 +206,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </ol>
 <img src="https://i.imgur.com/HvXdE5X.png"/>
 
-<h3>Congratulations osTicket is installed</h3>
+<h2>Congratulations osTicket is installed</h2>
 <img src="https://i.imgur.com/JUmoulh.png" />
+
+<h3>Now login in adminuser: <a href='http://localhost/osTicket/scp/login.php'>http://localhost/osTicket/scp/login.php</a></h3>
+<img src="https://i.imgur.com/FKaKkS2.png"/>
