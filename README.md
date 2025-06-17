@@ -197,13 +197,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>Let's continue setting up osTicket in the browser</p>
 
 <p>Let's finish setting up the database settings</p>
-<ol>
+<ul>
   <li>MySQL Database: osTicket</li>
   <li>MySQL Username: root</li>
   <li>MySQL Password: root</li>
   <li>Click "Install Now"</li>
   
-</ol>
+</ul>
 <img src="https://i.imgur.com/HvXdE5X.png"/>
 
 <h2>Congratulations osTicket is installed</h2>
