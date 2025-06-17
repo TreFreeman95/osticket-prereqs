@@ -211,3 +211,5 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h3>Now login in adminuser: <a href='http://localhost/osTicket/scp/login.php'>http://localhost/osTicket/scp/login.php</a></h3>
 <img src="https://i.imgur.com/FKaKkS2.png"/>
+
+
