@@ -190,4 +190,4 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>When done create a new database by right clicking unnamed and name it osTicket</p>
 
-<img src="https://i.imgur.com/UiqZzWQ.png"/>
+<img src="https://i.imgur.com/rRDH2ui.png"/>
